@@ -1,0 +1,10 @@
+{
+    "grid":  """XXPDXXX
+                X   2 S
+                XXPXXXX
+                O   1 S
+                XXXXXXX""",
+    "start_all_orders" : [
+        {"ingredients" : ["onion", "onion", "onion"]}
+    ]
+}
